@@ -60,12 +60,7 @@ document.querySelectorAll('form').forEach(form => {
 });
 
 console.log("Form data collection script with domain loaded!");
-//////////////////
-// Helper function to extract the domain from a URL
-function getDomainFromURL(url) {
-    const { hostname } = new URL(url);
-    return hostname;
-}
+
 
 // Fetch stored data for the current domain
 function fetchStoredData(domain) {
