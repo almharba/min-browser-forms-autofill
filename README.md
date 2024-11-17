@@ -1,11 +1,7 @@
-# min-browser-forms-autofill
+# Min Browser Forms Autofill
 
+This is a concept, not meant for production use. It is just to show the idea of how this concept is implemented and to explore further ideas to make it better.
 
-this is concept not meant for production use .
-just for showing idea of how this idea is implnted and to explore further ideas to make .
-this userscript is not productive currently . 
-this script saves all input data to wsl node server . 
-this is not secure at all . there is no encryption at all .
-this is meant to be used locally until encryption is implented .
-this script is not functional and this repo is meant for idea demonistration and enhancment .
+> **Warning**: This userscript is **not productive** currently. It saves all input data to a WSL node server. This is **not secure at all** and **there is no encryption**. It is meant to be used locally until encryption is implemented.
 
+This script is **not functional** and this repository is meant for idea demonstration and enhancement.
